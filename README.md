@@ -4,7 +4,7 @@ Aplikasi desktop Windows untuk mengunduh **video (MP4)** dan **audio (MP3)** dar
 dengan tampilan modern — dibangun dengan **Python**, **yt-dlp** (sebagai library), dan
 **CustomTkinter**.
 
-![Tema gelap](docs/screenshot.png) <!-- opsional: tambahkan tangkapan layar Anda -->
+![Tema gelap](https://imgur.com/a/MPutP5y) <!-- opsional: tambahkan tangkapan layar Anda -->
 
 ## ✨ Fitur
 
