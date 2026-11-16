@@ -1,0 +1,6 @@
+yt-dlp>=2026.10.26
+customtkinter>=5.2.2
+Pillow>=10.0.0
+requests>=2.31.0
+# Hanya untuk membangun .exe:
+pyinstaller>=6.0.0

@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Hasil build PyInstaller
+build/
+dist/
+*.spec
+
+# FFmpeg dibundel di bin/ terlalu besar untuk GitHub (>100 MB).
+# Unduh sendiri sesuai petunjuk README, atau gunakan Git LFS.
+bin/*.exe
+
+# Data uji
+tests/out/
+docs/strip_zoom.png
+stderr.log
+
+# Lingkungan virtual
+venv/
+.venv/
